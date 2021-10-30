@@ -1,0 +1,3 @@
+﻿  serverS.cpp
+C:\Usr\Tasks\Global_Logic\client-server\test1\serverS\serverS\serverS.cpp(57,15): warning C4154: удаление массива; выполнено преобразование к указателю
+  serverS.vcxproj -> C:\Usr\Tasks\Global_Logic\client-server\test1\serverS\Debug\serverS.exe
